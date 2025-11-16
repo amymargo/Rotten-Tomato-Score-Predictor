@@ -7,7 +7,16 @@ This project aims to predict Rotten Tomatoes critic scores using sentiment analy
 
 ### Open the Notebook- Click the "Open in Colab" button at the top of the `.ipynb` file.
 
-### Part 1: Data Collection
+### 📘 Part 1 — Data Collection (Optional)  
+**File:** `WebScraping_and_SentimentAnalysis.ipynb`  
+**Author:** Guy Plawner  
+
+This notebook:
+
+- Scrapes YouTube trailer comments  
+- Collects Rotten Tomatoes critic scores  
+- Performs initial text cleaning and sentiment scoring  
+- Generates the CSV dataset used for later modeling  
 
 #### If you have a Google API Key:
 -Ensure YouTube Data API v3 is enabled in your Google Developers Console<br>
@@ -18,6 +27,23 @@ This project aims to predict Rotten Tomatoes critic scores using sentiment analy
 -Download the pre-scraped dataset movies_comments_cleanTest_with_sentimate.csv<br>
 -Upload the file to the Colab environment<br>
 
-### Part 2: Model Training and Evaluation
+### Part 2: Data Modeling, Training, and Visualization
+**File:** `Data_Modeling_and_Visualization.ipynb`  
+**Author:** Amy Margolina  
 
--Run the notebook from 'Part 2- Load, Validate, and Split the Data' to see how the data is cleaned and the regression model is trained and evaluated
+This notebook includes:
+
+- Data loading and validation  
+- Cleaning and preprocessing  
+- Train/validation split  
+- Feature engineering  
+- Regression model training  
+- Model evaluation  
+- Visualizations and insights  
+
+---
+
+### 📄 Documentation and Model Evaluation  
+**File:** `Project_Report.pdf`  
+
+A full written report describing the entire project workflow, including model optimization steps and the progression of model metrics.
