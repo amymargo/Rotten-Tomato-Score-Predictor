@@ -7,7 +7,7 @@ This project aims to predict Rotten Tomatoes critic scores using sentiment analy
 
 ### Open the Notebook- Click the "Open in Colab" button at the top of the `.ipynb` file.
 
-### 📘 Part 1 — Data Collection (Optional)  
+### Part 1 — Data Collection (Optional)  
 **File:** `WebScraping_and_SentimentAnalysis.ipynb`  
 **Author:** Guy Plawner  
 
