@@ -43,7 +43,7 @@ This notebook includes:
 
 ---
 
-### 📄 Documentation and Model Evaluation  
+### Documentation and Model Evaluation  
 **File:** `Project_Report.pdf`  
 
 A full written report describing the entire project workflow, including model optimization steps and the progression of model metrics.
