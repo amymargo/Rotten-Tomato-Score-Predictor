@@ -5,7 +5,7 @@ This project aims to predict Rotten Tomatoes critic scores using sentiment analy
 ---
 ## Project Structure and Setup Instructions
 
-### Open the Notebooks- Click the "Open in Colab" button at the top of the `.ipynb` file.
+### Open the notebooks by clicking the **"Open in Colab"** button at the top of each `.ipynb` file.
 
 ### Part 1 — Data Collection (Optional)  
 **File:** `WebScraping_and_SentimentAnalysis.ipynb`  
@@ -31,7 +31,7 @@ This notebook:
 **File:** `Data_Modeling_and_Visualization.ipynb`  
 **Author:** Amy Margolina  
 
-This notebook includes:
+Run this notebook to perform:
 
 - Data loading and validation  
 - Cleaning and preprocessing  
@@ -46,4 +46,4 @@ This notebook includes:
 ### Documentation and Model Evaluation  
 **File:** `Project_Report.pdf`  
 
-A full written report describing the entire project workflow, including model optimization steps and the progression of model metrics.
+A full written report detailing the end-to-end project workflow including data collection, modeling methodology, optimization steps, and the progression of model performance metrics.
