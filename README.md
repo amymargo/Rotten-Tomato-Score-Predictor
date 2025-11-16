@@ -3,9 +3,9 @@
 This project aims to predict Rotten Tomatoes critic scores using sentiment analysis on YouTube movie trailer comments. This predictive model can help assess audience and critic reactions before the movie's release, even ahead of official critic reviews, providing valuable insights for filmmakers, marketers, and analysts.
 
 ---
-## Setup Instructions
+## Project Structure and Setup Instructions
 
-### Open the Notebook- Click the "Open in Colab" button at the top of the `.ipynb` file.
+### Open the Notebooks- Click the "Open in Colab" button at the top of the `.ipynb` file.
 
 ### Part 1 — Data Collection (Optional)  
 **File:** `WebScraping_and_SentimentAnalysis.ipynb`  
